@@ -4,7 +4,7 @@ int servoPos = 0;
 int tempPin = 0;
 float voltage = 0;
 float degreesC = 0;
-// Comment to test commit.
+
 Servo myServo;
 
 int tempReading; // the analog reading from the sensor
